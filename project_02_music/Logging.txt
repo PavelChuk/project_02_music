@@ -1,0 +1,8 @@
+мар 21, 2019 11:15:35 PM logger.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+мар 21, 2019 11:15:36 PM logger.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+мар 21, 2019 11:15:36 PM logger.UseLogger doSomeThingAndLog
+WARNING: Info Log
+мар 21, 2019 11:15:36 PM logger.UseLogger doSomeThingAndLog
+INFO: Info Log
